@@ -1,7 +1,7 @@
 # 📄 Research Paper Assistant
 
 An AI-powered Streamlit app that lets you upload a research paper (PDF), get a structured summary, and chat with the paper using natural language.
-![Pic](assets/rpa.png)
+![Pic](assets/pic.png)
 ---
 
 ## 🚀 Features
